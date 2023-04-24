@@ -1,0 +1,6 @@
+Game of Cards C, Dynamic Programming and Data Structures
+
+• Built a CLI application that operates different shuffles on a given "deck of cards" and simulates the game of ’Rolling
+Stones’.
+• Implemented using dynamic memory allocation, such as single and double linked lists, dynamic data structures, I/O
+files and strings.
